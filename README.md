@@ -4,7 +4,7 @@ A minimal, classic Battleship-style game implemented in Python with the pygame l
 Made in Colégio Atlântico.
 
 ## About
-This repository contains the game logic for a turn-based naval battle and some assets needed for the GUI. It is intended to be simple, readable, and easy to play.
+This repository contains the game logic for a turn-based naval battle and some assets needed for the GUI. It is intended to be simple, readable, and easy to play. The game's messages are shown in Portuguese.
 
 ## How to play
 - You place 3 ships on a 6x6 grid. Each ship takes a cell in the grid.
